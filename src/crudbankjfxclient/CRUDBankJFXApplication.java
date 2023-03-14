@@ -16,7 +16,8 @@ import javafx.stage.Stage;
 
 /**
  * Application's main class. This class reads a properties file and gets necessary 
- * business objects for windows controllers. 
+ * business objects for windows controllers.
+ * This comment is a test for git. 
  * @author Javier Martin Uria
  */
 public class CRUDBankJFXApplication extends Application {
